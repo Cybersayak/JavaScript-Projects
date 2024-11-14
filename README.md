@@ -15,5 +15,6 @@
 
 [Project Seven - ECommerce API](https://github.com/Cybersayak/ECommerceAPI)
 
-[Project Seven - Photo Gallery App](https://github.com/Cybersayak/Photo-Gallery-App)
+[Project Eight - PHOTO GALLERY APP](https://github.com/Cybersayak/Photo-Gallery-App)
 
+[Project Nine - FUN CHIT CHAT ROOM](https://github.com/Cybersayak/Fun-Chat-Room)
