@@ -1,5 +1,5 @@
 # 50 NodeJs Projects  
-## My Journey to Master Node Js Backend 
+### My Journey to Master Node Js Backend 
 
 [Project One - Blog API](https://github.com/Cybersayak/BlogAppAPI)
 
@@ -15,5 +15,5 @@
 
 [Project Seven - ECommerce API](https://github.com/Cybersayak/ECommerceAPI)
 
-
+[Project Seven - Photo Gallery App](https://github.com/Cybersayak/Photo-Gallery-App)
 
